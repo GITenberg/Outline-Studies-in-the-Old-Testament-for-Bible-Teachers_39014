@@ -1,0 +1,31 @@
+_repo: Outline-Studies-in-the-Old-Testament-for-Bible-Teachers_39014
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39014-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hurlbut, Jesse Lyman
+    aliases:
+    - Hurlbut, J. L. (Jesse Lyman)
+    - Hurlbott, Jesse Lyman
+    birthdate: 1843
+    deathdate: 1930
+    gutenberg_agent_id: '33676'
+    url: http://www.gutenberg.org/2009/agents/33676
+    wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
+description: ''
+gutenberg_issued: '2012-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39014'
+  lccn: 05033908
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Old Testament -- Textbooks'
+- !lcc 'BS'
+title: Outline Studies in the Old Testament for Bible Teachers
+url: http://www.gutenberg.org/ebooks/39014
